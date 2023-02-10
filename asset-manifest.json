@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactsportsapi/static/css/main.5abec3e6.css",
+    "main.js": "/reactsportsapi/static/js/main.2c3c743a.js",
+    "static/js/787.ed81b46a.chunk.js": "/reactsportsapi/static/js/787.ed81b46a.chunk.js",
+    "index.html": "/reactsportsapi/index.html",
+    "main.5abec3e6.css.map": "/reactsportsapi/static/css/main.5abec3e6.css.map",
+    "main.2c3c743a.js.map": "/reactsportsapi/static/js/main.2c3c743a.js.map",
+    "787.ed81b46a.chunk.js.map": "/reactsportsapi/static/js/787.ed81b46a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5abec3e6.css",
+    "static/js/main.2c3c743a.js"
+  ]
+}
