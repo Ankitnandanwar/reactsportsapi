@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+html{
+  font-size: 62.5%;
+}
+body{
+  background-color: rgb(219, 220, 221);
+}
+.Cricket-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 4rem;
+}
+.card{
+    min-width: 20rem;
+    width: 30vw;
+    padding: 4rem;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+    color: #15133c;
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+}
+.cric-img{
+    height: 13rem;
+}
+.cric-title{
+  text-align: center;
+  position: relative;
+  bottom: 15px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+.Pagn-btn{
+  flex-direction: row;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+button{
+  padding: 0.8rem 2.2rem;
+  border: none;
+  font-size: 1.6rem;
+  background-color: #15133c;
+  color: #ffffff;
+  margin: 3rem;
+  cursor: pointer;
+  display: inline-block;
+}
+h1{
+  font-size: 3.2rem;
+  margin: 2rem 0;
+  text-align: center;
+}
